@@ -17,4 +17,3 @@ user interactions to help the department optimize services and address recurring
 This solution will streamline the enquiry process, improve user experience, and enhance operational 
 efficiency within the Department of Technical Education, empowering all stakeholders with timely and 
 accurate information.
-![image](https://github.com/user-attachments/assets/c349f0fe-000e-4ef2-beab-30b25804dbac)
